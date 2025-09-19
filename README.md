@@ -35,8 +35,8 @@
 ### 1. Клонируй репозиторий
 
 ```bash
-git clone https://github.com/yourusername/t2i-lora-api-pipeline.git
-cd t2i-lora-api-pipeline
+[git clone https://github.com/yourusername/custom-LORA.git]()
+cd custom-LORA
 ```
 
 ### 2. Установи зависимости
