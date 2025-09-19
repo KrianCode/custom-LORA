@@ -1,0 +1,17 @@
+model_id: "runwayml/stable-diffusion-v1-5"
+output_dir: "./models"
+
+# Training
+batch_size: 2
+learning_rate: 1e-4
+num_epochs: 100
+mixed_precision: "fp16"
+gradient_accumulation_steps: 2
+lora_rank: 8
+lora_alpha: 16
+lora_dropout: 0.0
+weight_decay: 1e-2
+
+# Logging
+log_every: 10
+save_every_epoch: 10
