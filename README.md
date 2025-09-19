@@ -35,7 +35,7 @@
 ### 1. Клонируй репозиторий
 
 ```bash
-[git clone https://github.com/yourusername/custom-LORA.git]()
+git clone https://github.com/KrianCode/custom-LORA.git
 cd custom-LORA
 ```
 
