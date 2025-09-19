@@ -56,7 +56,7 @@ python train.py
 ```bash
 ./models/loras/lora_final/
 ```
-### 6. Сгенерируй изображение с LoRA
+### 5. Сгенерируй изображение с LoRA
 ```bash
 python generate_local.py
 ```
