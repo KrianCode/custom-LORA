@@ -36,6 +36,27 @@
 
 ```bash
 git clone https://github.com/yourusername/t2i-lora-api-pipeline.git
-cd t2i-lora-api-pipeline```
+cd t2i-lora-api-pipeline
+```
 
 ### 2. Установи зависимости
+```bash
+pip install -r requirements.txt
+```
+### 3. Подготовь данные
+Помести изображения стиля в:
+```bash
+./data/user_uploads/
+```
+### 4. Запусти обучение LoRA
+```bash
+python train.py
+```
+Результат сохранится в:
+```bash
+./models/loras/lora_final/
+```
+### 6. Сгенерируй изображение с LoRA
+```bash
+python generate_local.py
+```
