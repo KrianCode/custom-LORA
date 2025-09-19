@@ -1,7 +1,5 @@
 # 🎨 T2I LoRA Fine-Tuner with API Support
 
-> **Train custom LoRA adapters for Stable Diffusion on user-uploaded style images — and generate stylized images locally or via API. Lightweight, modular, and production-ready.**
-
 Этот пайплайн позволяет:
 
 - 🖼️ **Загружать изображения пользовательского стиля** (например, рисунки, фото, арты).
@@ -38,4 +36,6 @@
 
 ```bash
 git clone https://github.com/yourusername/t2i-lora-api-pipeline.git
-cd t2i-lora-api-pipeline
+cd t2i-lora-api-pipeline```
+
+### 2. Установи зависимости
