@@ -1,4 +1,4 @@
-# 🎨 T2I LoRA Fine-Tuner with API Support
+# 🎨 T2I LoRA Fine-Tuner 
 
 Этот пайплайн позволяет:
 
